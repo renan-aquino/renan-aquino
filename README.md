@@ -1,8 +1,14 @@
-### Hi there 👋
+### Hi! I'm Renan. 👋
+
+I like building new stuff as an aspiring full stack developer.  
+Check out my latest project:  
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=renan-aquino&repo=bug-tracker-docker&theme=dark&border_color=30363D)](https://github.com/renan-aquino/bug-tracker-docker) 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=renan-aquino&layout=compact&theme=dark&border_color=30363D)](https://github.com/renan-aquino?tab=repositories)
+
 
 <!--
-**renan-aquino/renan-aquino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
