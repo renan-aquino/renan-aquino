@@ -1,11 +1,13 @@
-### Hi! I'm Renan. 👋
+## Hi! I'm Renan. 👋
 
-I like building new stuff as an aspiring full stack developer.  
-Check out my latest project:  
+### I like building new stuff as an aspiring full stack developer.  
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=renan-aquino&repo=bug-tracker-docker&theme=dark&border_color=30363D)](https://github.com/renan-aquino/bug-tracker-docker) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=renan-aquino&layout=compact&theme=dark&border_color=30363D&bg_color=0D1117)](https://github.com/renan-aquino?tab=repositories)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=renan-aquino&layout=compact&theme=dark&border_color=30363D)](https://github.com/renan-aquino?tab=repositories)
+### Check out my latest project:  
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=renan-aquino&repo=bug-tracker-docker&theme=dark&border_color=30363D&bg_color=0D1117&icon_color=2F81F7)](https://github.com/renan-aquino/bug-tracker-docker)    
+
+
 
 
 <!--
