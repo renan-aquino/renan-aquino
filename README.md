@@ -1,6 +1,6 @@
 ## Hi! I'm Renan. 👋
 
-### I like building new stuff as an aspiring full stack developer.  
+### I like building stuff as a full stack developer.  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=renan-aquino&layout=compact&theme=dark&border_color=30363D&bg_color=0D1117)](https://github.com/renan-aquino?tab=repositories)
 
